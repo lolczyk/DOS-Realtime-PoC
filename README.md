@@ -1,4 +1,4 @@
-# DOS-Realtime-Poc
+# DOS-Realtime-PoC
 ## Description
 Basic and rudimentary implementation of Real Time mechanisms for DOS. Two versions:
 - basic.c - two tasks running at scheduled intervals;
